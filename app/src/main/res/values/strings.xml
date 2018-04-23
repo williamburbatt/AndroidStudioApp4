@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Medical Calculator</string>
+    <string name="choice1">Convert Pounds to Kilos</string>
+    <string name="choice2">Convert Kilos to Pounds</string>
+</resources>
