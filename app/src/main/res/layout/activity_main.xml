@@ -34,8 +34,8 @@
         android:textAlignment="center" />
 
     <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="218dp"
-        android:layout_height="wrap_content"
+        android:layout_width="240dp"
+        android:layout_height="94dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="149dp"
@@ -47,7 +47,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onRadioButtonClicked"
-            android:text="@string/choice1" />
+            android:text="@string/choice1"
+            />
 
         <RadioButton
             android:id="@+id/radKiloToLb"
